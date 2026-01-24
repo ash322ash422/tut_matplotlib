@@ -1,0 +1,13 @@
+Perform EDA on this dataset.
+
+Features and Characteristics
+
+mpg: Miles per gallon (numerical)
+cylinders: Number of cylinders in the engine (numerical)
+displacement: Engine displacement in cubic inches (numerical)
+horsepower: Engine horsepower (numerical)
+weight: Vehicle weight in pounds (numerical)
+acceleration: Acceleration in seconds from 0 to 60 mph (numerical)
+model_year: Model year (categorical)
+origin: Origin of the car (1 = American, 2 = European, 3 = Japanese) (categorical)
+name: Car model name (string)
