@@ -1,0 +1,15 @@
+Concise roadmap for teaching Seaborn:
+
+### **Week 3: Seaborn Fundamentals**
+- Why Seaborn? (statistical visualization)
+- Distribution plots: `histplot`, `kdeplot`, `boxplot`, `violinplot`
+- Categorical plots: `barplot`, `countplot`, `stripplot`
+- Seaborn themes and color palettes
+
+### **Week 4: Advanced Visualizations**
+- Relationship plots: `scatterplot`, `lineplot`, `regplot`
+- Matrix plots: `heatmap`, `clustermap`
+- Multi-plot grids: `FacetGrid`, `PairGrid`
+- Combining Matplotlib + Seaborn
+
+**Focus:** 70% hands-on coding, 30% theory. Each week includes 2-3 mini-projects using real datasets.

@@ -1,0 +1,12 @@
+Concise roadmap for teaching Matplotlib 
+
+### **Week 1: Matplotlib Basics**
+01 Introduction: DONE
+02 Basic plots: line, scatter, - DONE
+03 Basic plots: bar, - DONE
+04 Basic plots: histogram - DONE
+05 Saving figures   - DONE
+06 subplot: - DONE
+
+07 Basic plots: boxplot (added by me)
+
